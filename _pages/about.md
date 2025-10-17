@@ -13,6 +13,4 @@ My primary fields are economic history, development economics and political econ
 
 I am on the 2024-25 academic job market.
 
-Feel free to contact me at jiaojiaoyang@link.cuhk.edu.hk.
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+Feel free to contact me at xiaoyubianhk@gmail.com.
