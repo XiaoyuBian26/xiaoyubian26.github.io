@@ -9,7 +9,7 @@ redirect_from:
 
 Welcome to my website! I am a PhD Candidate in Economics at The Chinese University of Hong Kong.
 
-My primary fields are economic history, development economics and political economy. . You can download my CV here.
+My primary fields are economic history, development economics and political economy. . You can download my CV here:[Xiaoyu Bian's CV](../assets/CV_BianXiaoyu2025_1.pdf).
 
 I am on the 2025-26 academic job market.
 
