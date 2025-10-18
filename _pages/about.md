@@ -13,4 +13,4 @@ My research interests span economic history, political economy, development econ
 
 I am on the 2025-26 academic job market.
 
-Feel free to contact me at xiaoyubianhk@gmail.com.
+Feel free to contact me at <a href="mailto:xiaoyubianhk@gmail.com">xiaoyubianhk@gmail.com.
