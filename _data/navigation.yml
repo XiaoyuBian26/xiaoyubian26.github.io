@@ -9,10 +9,10 @@
 
 main:
   - title: "Research"
-    url: /Teaching/
+    url: /Reserch/
 
   - title: "CV"
-    url: /cv/
+    url: /CV/
     
   # - title: "CV"
   #   url: /cv-json/
