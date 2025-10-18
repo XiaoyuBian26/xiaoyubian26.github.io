@@ -1,6 +1,6 @@
 ---
 layout: archive
-title：  
+title: 
 premalink: /Research/
 ---
 
