@@ -6,7 +6,7 @@ premalink: /Research/
 
 ## ***Job market paper***
 
-Ying Bai, Xiaoyu Bian, and Ruixue Jia. 2025.  “ Politics-driven Market Access and Its Cost:Evidence from China’s Grand Canal.” *Working paper* .
+Ying Bai, Xiaoyu Bian, and Ruixue Jia. 2025. [ “ Politics-driven Market Access and Its Cost:Evidence from China’s Grand Canal.” ](../assets/JMP.pdf)*Working paper* .
 
 ## ***Working paper***
 
